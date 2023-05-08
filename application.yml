@@ -1,9 +1,2 @@
 
-spring:
- servlet:
-  multipart:
-   enabled: true
-   max-file-size: 500MB
-   max-request-size: 500MB
- main:
-  allow-circular-references: true
+
