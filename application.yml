@@ -8,9 +8,7 @@ spring:
   hibernate: 
    dialect: org.hibernate.dialect.MySQLDialect
  datasource:
-  url: 
-   jdbc:
-    mysql: //localhost:3306/upgrade_db 
+  url: jdbc:mysql://localhost:3306/upgrade_db 
   username: root
   password: MYSQLtukki67@
   driver-class-name: com.mysql.cj.jdbc.Driver
